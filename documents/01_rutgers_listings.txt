@@ -1,0 +1,41 @@
+SOURCE: Rutgers Off-Campus Housing Listings
+TYPE: official_listing_marketplace
+URL: https://offcampushousing.rutgers.edu/listing
+TITLE: Apartments Near Rutgers New Brunswick
+---
+[PAGE SUMMARY]
+This is Rutgers University New Brunswick's official off-campus housing marketplace. It is intended for students looking for apartments, houses, sublets, and roommate options near Rutgers New Brunswick. The page supports filtering by beds, baths, maximum rent, price per unit or per bed, style, amenities, availability, and commute time.
+
+The marketplace frames itself as a centralized place to contact landlords near Rutgers New Brunswick instead of browsing many separate rental websites. Listings can include rent, availability, bed/bath count, amenities, address, contact information, and estimated walking/biking/transit commute distance from campus points.
+
+[RUTGERS MARKETPLACE NOTES]
+- Listings are searchable by apartment or house type.
+- Students can compare prices, unit features, and availability.
+- Commute information is useful because Rutgers New Brunswick is spread across several areas and bus routes.
+- The page includes landlord-facing functionality, but students are not required to use any particular landlord.
+- The Rutgers Off-Campus Living office provides a listing location, but students should still inspect rentals, read leases carefully, and evaluate landlords independently.
+
+[REPRESENTATIVE LISTING EXAMPLES OBSERVED]
+Example 1: Premier Properties - 191 Hamilton Street
+Address: 191 Hamilton St, New Brunswick, NJ 08901
+Beds shown: studio to 3 bedroom range
+Availability shown: Now
+Commute shown: about 9 minutes to campus
+Amenities shown in page data included in-unit features, parking, pets, and air conditioning.
+
+Example 2: Premier Properties - 205 Easton Ave
+Address: 205 Easton Ave, New Brunswick, NJ 08901
+Beds shown: studio to 2 bedroom range
+Price shown: $2100 to $3420
+Availability shown: Now
+Commute shown: about 7 minutes to campus
+
+Example 3: 75 Easton Ave
+Address: 75 Easton Avenue, New Brunswick, NJ
+Description from listing page data: apartments near Scott Hall with hardwood floors, stainless appliances, washer/dryer in unit, parking behind the building for an added monthly fee, four-bedroom units for four students, two full bathrooms, and water/sewer included. The listing indicated it was sold out for the June 2026 to May 2027 season and offered a waitlist.
+
+[HOW THIS SOURCE HELPS THE GUIDE]
+Use this source for official rental-search workflow, examples of listing fields, commute-to-campus information, and the kinds of amenities students should compare. Do not treat a listing as permanent availability because rental status and prices can change quickly.
+
+[INGESTION NOTES]
+This file is a cleaned, source-grounded summary rather than a full copy of the marketplace page. For Milestone 3, it should be enough to help the RAG system answer questions about where to search, what information listings contain, and what students should check before contacting landlords.

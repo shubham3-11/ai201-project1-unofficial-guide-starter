@@ -1,0 +1,31 @@
+SOURCE: Rutgers Off-Campus Living FAQ
+TYPE: official_faq
+URL: https://ruoffcampus.rutgers.edu/campus-living/faqs
+TITLE: FAQ's, Off-Campus Living & Community Initiatives
+---
+[Q] Does financial aid cover off-campus housing?
+[A] Rutgers says some students have been able to receive financial aid while living off campus. Students should contact One Stop Student Services or submit an inquiry through the One Stop website because the answer may depend on the student's aid package, enrollment status, and cost of attendance.
+
+[Q] Who pays the utilities?
+[A] Utilities depend on the lease. Some rental charges, such as hot water, may be included in rent. If utilities are not included, tenants usually must set up service directly with the utility company. Students should include expected utility costs in the total housing budget, not just monthly rent.
+
+[Q] Will I have to pay a security deposit?
+[A] Rutgers states that security deposits are typically around 1 to 1.5 months of rent. In New Jersey, a security deposit cannot exceed 1.5 times the monthly rent.
+
+[Q] Is there a period during which I can cancel my lease?
+[A] Rutgers warns that once a lease is signed, the tenant is legally bound unless the lease itself includes a cancellation clause. Students should inspect the unit, ask questions, and confirm expectations before signing.
+
+[Q] What are my rights and responsibilities as a tenant?
+[A] Rutgers points students to basic information about landlord and tenant responsibilities, Legal Services of New Jersey's tenant rights materials, and tenant associations. Students should understand repair duties, rent obligations, lease terms, security deposit rules, and local housing codes.
+
+[Q] How big are bedrooms required to be? Are attic and basement bedrooms legal?
+[A] Legal bedroom rules depend on municipal housing and property maintenance codes. Rutgers warns students not to overcrowd a unit and not to rent units that fail local codes. Attic and basement bedrooms can be legal, but only if they meet the relevant city or municipal housing requirements.
+
+[Q] What should I know before signing a lease?
+[A] Read the lease carefully and make sure all important terms are written clearly. Important lease terms include rent due date, late fees, utility responsibility, security deposit location, pet rules, subletting rules, renter's insurance, smoking rules, keys, and maintenance responsibilities. Rutgers lease guidance also notes that lease terms must not violate state or local law and must be written in understandable plain language.
+
+[Q] What lease clauses should I watch for?
+[A] Common clauses may limit subletting, prohibit pets, require renters insurance, require key copies, or prohibit smoking. Rutgers identifies some potentially illegal clauses, including nonrefundable security deposits, blanket bans on cable installation, and clauses saying the landlord is not responsible for repair and maintenance.
+
+[INGESTION NOTES]
+This file uses question-and-answer formatting to help the chunker preserve topic context. It is based on Rutgers Off-Campus Living FAQ and Rutgers lease guidance, with the FAQ URL used as the main source header.

@@ -1,0 +1,58 @@
+SOURCE: Rutgers University Off-Campus Housing, RentCollegePads
+TYPE: rental_search_page
+URL: https://www.rentcollegepads.com/off-campus-housing/rutgers/search
+TITLE: Rutgers University Off Campus Housing, College Pads
+---
+[PAGE SUMMARY]
+College Pads presents itself as the official off-campus housing partner for Rutgers University and offers listings for apartments and houses near Rutgers New Brunswick. Students can compare landlords, locations, prices, walking time to campus, bedroom counts, and availability.
+
+[SEARCH TIMING]
+The page advises Rutgers New Brunswick students to start searching after winter break and says students sign leases during the spring semester. Because many students search for off-campus housing, competition can be strong for places near campus. Students should search early and act quickly when they find a good match.
+
+[RENT INFORMATION]
+The page states that New Brunswick rent can be pricey, but costs can be reduced with roommates. It gives average rent figures per person, per bedroom:
+- Studio apartment near Rutgers New Brunswick: about $1,166.
+- One-bedroom apartment near Rutgers New Brunswick: about $1,481.
+- Two-bedroom apartment near Rutgers New Brunswick: about $1,055.
+
+[REPRESENTATIVE LISTING EXAMPLES OBSERVED]
+Example 1: Premier Properties - 15 Maple Street
+Address: 15 Maple St, New Brunswick, NJ 08901
+Beds shown: 1 to 3 beds
+Price shown: $1800 to $2900
+Availability shown: Now
+Walk time to campus: about 18 minutes
+
+Example 2: Premier Properties - 15 Union Street
+Address: 15 Union St, New Brunswick, NJ 08901
+Beds shown: studio to 2 beds
+Price shown: ask for price
+Availability shown: Now
+Walk time to campus: about 4 minutes
+
+Example 3: 66 Sicard St
+Address: 66 Sicard St, New Brunswick, NJ 08901
+Beds shown: 2 beds
+Price shown: $2275 to $2500
+Availability shown: Now
+Walk time to campus: about 5 minutes
+
+Example 4: SoCam 290
+Address: 290 George Street, New Brunswick, NJ 08901
+Beds shown: studio to 3 beds
+Price shown: $1170 to $4275
+Availability shown: Now
+Walk time to campus: about 15 minutes
+
+Example 5: 55 Morrell Street
+Address: 55 Morrell St, New Brunswick, NJ 08901
+Beds shown: 2 beds
+Price shown: $2600 to $2800
+Availability shown: Now
+Walk time to campus: about 4 minutes
+
+[NEW BRUNSWICK STUDENT LIFE NOTES]
+The page describes New Brunswick as having restaurants, shops, parks, and transit access to New York City and Philadelphia. It mentions College Ave dining, Rutgers athletics, student clubs, the Geology Museum, Buccleuch Park, and the Delaware and Raritan Canal State Park Trail.
+
+[HOW THIS SOURCE HELPS THE GUIDE]
+Use this source to support answers about current marketplace-style rent ranges, typical listing details, why students should search early, and why roommates can lower costs. Treat prices and availability as time-sensitive.
